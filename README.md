@@ -5,3 +5,5 @@ There are 4 different works in it:
   2. A regression using data acquired by the foursquared API, acquiring the overall impact that the number of venues close to a house have in the price.
   3. A document discussing a little about the answers gathered.
   4. A presentation to expose the findings.
+
+Obs: Due to changes in the wikipedia, the clustering obtained from the project might be no longer functional (2024).
